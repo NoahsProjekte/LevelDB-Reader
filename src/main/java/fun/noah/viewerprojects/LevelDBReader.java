@@ -44,7 +44,7 @@ public class LevelDBReader {
     }
 
     public static void main(String[] args) {
-        readLevelDB("");
+        readLevelDB("E:\\noah.fun\\ViewerProjects\\LDBR\\000922.ldb");
     }
 
 }
